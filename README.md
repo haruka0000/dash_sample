@@ -7,3 +7,4 @@ pip install dash dash_table dash_core_components dash_html_components pandas
 ```
 
 
+![result](./sample.png)
